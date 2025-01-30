@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sooraj! <br/><a href="https://github.com/SoorajS1">Cybersecurity Researcher</a>, <a href="https://www.linkedin.com/in/sooraj-sudhakaran-302087213/">Penetration Tester</a>, <a href="https://www.youtube.com/c/joshmadakor">Purple Teamer</a></h1>
+<h1>Hi, I'm Sooraj! <br/><a href="https://github.com/SoorajS1">Cybersecurity Researcher</a>, <a href="https://www.linkedin.com/in/sooraj-sudhakaran-302087213/">Penetration Tester</a>, <a href="https://soorajsudhakarancom.godaddysites.com">Purple Teamer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
